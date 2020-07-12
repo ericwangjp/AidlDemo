@@ -1,0 +1,3 @@
+rootProject.name='AidlApp'
+include ':app'
+include ':serverapp'
